@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 LOCAL
 
-=======
-REMOTE
->>>>>>> bf2e25927ab750c5e70b3f05b60df5c037f93ac5
 # Challenge-Git-GitHub-5
 
 j'écris quelques lignes pour le challenge.
